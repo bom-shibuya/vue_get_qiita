@@ -1,3 +1,10 @@
+# Vue 練習用
+
+Qiitaのapiを叩いてきて、リストを表示して、クリックで記事も表示させる。  
+routingもやる。
+
+---
+
 # TOKYO SHIBUYA DEV FOR Vue.js
 ---
 
